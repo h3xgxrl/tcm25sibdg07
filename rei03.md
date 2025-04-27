@@ -3,7 +3,6 @@
 ## Modelo E/A
 Aqui está o texto formatado em **Markdown**:
 
-```markdown
 # Modelo Entidade-Associação (E/A)
 
 ## Introdução
