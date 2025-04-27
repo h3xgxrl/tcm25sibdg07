@@ -2,9 +2,7 @@
 
 
 ## Descrição do trabalho
-# Especificação e Desenvolvimento de um Sistema de Informação para uma Loja Online de Produtos de Beleza
 
-## Introdução
 
 O trabalho consiste na especificação e desenvolvimento de um sistema de informação para uma pequena loja online dedicada à venda de produtos de beleza.  
 O objetivo principal é informatizar o processo de gestão do negócio, de forma a garantir uma estrutura fiável e eficiente que otimize a gestão dos produtos, clientes, encomendas e stock.
@@ -76,7 +74,7 @@ A definição das relações entre os dados será crucial para:
 - Melhorar o fluxo de trabalho da loja.
 
 
-## Modelação do problema
+# Modelação do problema
 
 A modelação do problema será realizada com base em alguns pressupostos que, apesar de não estarem diretamente mencionados na descrição inicial do trabalho, são fundamentais para a implementação de um sistema eficiente.  
 Estes pressupostos visam simplificar a abordagem ao problema e garantir que o modelo de dados desenvolvido seja adequado às necessidades da loja online.
