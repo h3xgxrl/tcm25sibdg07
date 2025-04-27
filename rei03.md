@@ -141,9 +141,6 @@ Aqui estão algumas regras importantes que ajudam a manter o sistema correto e o
   O stock de produtos deve ser atualizado corretamente sempre que uma encomenda for realizada ou cancelada, garantindo que as quantidades disponíveis estão sempre corretas.
 
 Essas regras são fundamentais para manter o funcionamento correto do sistema e garantir que todos os processos sejam feitos de forma eficiente e sem erros.
-```
-
-Esse formato está pronto para ser utilizado como um arquivo Markdown (com extensão `.md`). Ele organiza as informações em seções e subseções, usa listas e formatação básica para tornar o conteúdo mais legível.
 
 
 ---
